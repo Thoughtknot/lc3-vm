@@ -1,0 +1,4 @@
+*.o
+*.obj
+lc3
+test_suite
